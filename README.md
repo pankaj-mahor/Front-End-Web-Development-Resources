@@ -147,8 +147,10 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [CSS Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA) - YouTube channel of well-known web design and development blog CSS Tricks by Chris Coyier. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Coder’s Guide](https://www.youtube.com/user/CodersGuide/) - Tutorials on HTML, CSS, JavaScript, Bootstrap ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Codevolution](https://www.youtube.com/c/Codevolution/featured) - Tutorials on React, Vue, Angular, MongoDB, JavaScript, MEAN stack, HTML, CSS. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [CodeWithHarry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - Tutorials on HTML, CSS, Javascript, Node JS, MongoDB and hosting. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Derek Banas](https://www.youtube.com/user/derekbanas) - Tutorials on C#, Visual Basic, Django, Python, NodeJS, AngularJS, MongoDB, jQuery, JavaScript, CSS, Ruby on Rails, Java, SQLite, Android, HTML, PHP, Objective C ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - Tutorials on HTML5, CSS, SASS, Bootstrap, Foundation, jQuery, Ruby on Rails, GitHub. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Dev Ed](https://www.youtube.com/c/DevEd/featured) - Learn web development, web design, 3d modelling, tools like figma and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [DesignCourse](https://www.youtube.com/user/DesignCourse) - Tutorials on UI/UX Design or HTML5, CSS, SASS, Animation Library. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - **Arabic only** ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/) - Tutorials on JQuery, JavaScript, React, Math, Science, Software Engineering, Open source software ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -163,9 +165,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft) - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [thenewboston](https://www.youtube.com/user/thenewboston) - Tutorials on ECMAScript 6, React JS / Redux, Django, Angular 2, Gulp, Git, Python, SEO, SASS, SCSS, Grunt, Illustrator, MongoDB, PHP, Java, Ruby, Objective C ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/) 👍 - Tutorials on HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL, ECMAScript 6, React JS / Redux, Django, Angular, Ionic, Gulp, Git, Python, Node JS, PHP, Laravel, Cake PHP, Symfony, CodeIgniter, Programming Tips ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [CodeWithHarry](https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - Tutorials on HTML, CSS, Javascript, Node JS, MongoDB and hosting. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Programming With Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Tutorial on React, Nodejs, Python, Javascript, Angular,Typescipt and C#. ![Free](https://img.shields.io/badge/-Free-brightgreen)
-- [Dev Ed](https://www.youtube.com/c/DevEd/featured) - Learn web development, web design, 3d modelling, tools like figma and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) - Learn Website Developments with Html , Javascript , Css and other Frameworks with same projects and more ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w) - Videos for helping you with your work as a web designer, web developer, or person involved making websites or web apps ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) - There's always something to learn. Whether you want to have look at Angular Tutorials or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else - you're probably right![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -491,8 +491,8 @@ This is an open-source repository for all who want to learn front-end Developmen
 - [The Stocks](http://thestocks.im) - Another awesome directory sharing sites for resources, loading directly on the webpage ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UnDraw](https://undraw.co) 👍 - "MIT licensed illustrations for every project you can imagine and create ![Free](https://img.shields.io/badge/-Free-brightgreen)
 - [UnSplash](https://unsplash.com) 👍 - "Beautiful, Free Photos" & themed collections of photos ![Free](https://img.shields.io/badge/-Free-brightgreen)
-
-**[⬆ back to top](#table-of-contents)**
+- [LandingStock](https://landingstock.com/) 👍 - "Beautiful, Free SVG for Landing page" & collections of SVG ![Free](https://img.shields.io/badge/-Free-brightgreen)
+  **[⬆ back to top](#table-of-contents)**
 
 ---
 
